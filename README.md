@@ -1,2 +1,3 @@
 # vehicle-detection-anpr
-Vehicle detection count and ANPR/ALPR Automatic License Number plate recognition. 
+Vehicle detection, count and ANPR/ALPR Automatic License Number plate recognition. 
+vehicle tracking.
